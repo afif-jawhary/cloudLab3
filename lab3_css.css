@@ -43,7 +43,7 @@ nav ul li a {
 }
 
 .hero {
-    background: url('C:\Users\User\Desktop\Ashesi\Year 4\Cloud Computing\lab3\aot.jpg') no-repeat center center/cover;
+    background: url('aot.jpg') no-repeat center center/cover;
     height: 600px;
     display: flex;
     justify-content: center;
