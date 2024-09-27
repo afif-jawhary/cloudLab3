@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anime Homepage</title>
-    <link rel="stylesheet" href="C:\Users\User\Desktop\Ashesi\Year 4\Cloud Computing\lab3\lab3_css.css">
+    <link rel="stylesheet" href="lab3_css.css">
 </head>
 <body>
     <header>
@@ -36,15 +36,15 @@
         <h2>Trending Anime</h2>
         <div class="anime-slider">
             <div class="anime-item">
-                <img src="C:\Users\User\Desktop\Ashesi\Year 4\Cloud Computing\lab3\face.jpg" alt="Anime 1">
+                <img src="face.jpg" alt="Anime 1">
                 <p>One Piece</p>
             </div>
             <div class="anime-item">
-                <img src="C:\Users\User\Desktop\Ashesi\Year 4\Cloud Computing\lab3\Zenitsu.jpg" alt="Anime 2">
+                <img src="Zenitsu.jpg" alt="Anime 2">
                 <p>Demon Slayer</p>
             </div>
             <div class="anime-item">
-                <img src="C:\Users\User\Desktop\Ashesi\Year 4\Cloud Computing\lab3\Endeavour.jpg" alt="Anime 3">
+                <img src="Endeavour.jpg" alt="Anime 3">
                 <p>My Hero Academia</p>
             </div>
         </div>
@@ -54,17 +54,17 @@
         <h2>Top Picks</h2>
         <div class="anime-grid">
             <div class="anime-card">
-                <img src="C:\Users\User\Desktop\Ashesi\Year 4\Cloud Computing\lab3\phantom.jpg" alt="Anime 4">
+                <img src="phantom.jpg" alt="Anime 4">
                 <h3>Hunter x Hunter</h3>
                 <a href="#" class="watch-now">Watch Now</a>
             </div>
             <div class="anime-card">
-                <img src="C:\Users\User\Desktop\Ashesi\Year 4\Cloud Computing\lab3\Naruto.png" alt="Anime 5">
+                <img src="Naruto.png" alt="Anime 5">
                 <h3>Naruto</h3>
                 <a href="#" class="watch-now">Watch Now</a>
             </div>
             <div class="anime-card">
-                <img src="C:\Users\User\Desktop\Ashesi\Year 4\Cloud Computing\lab3\Thorfinn.jpg" alt="Anime 6">
+                <img src="Thorfinn.jpg" alt="Anime 6">
                 <h3>Vinland Saga</h3>
                 <a href="#" class="watch-now">Watch Now</a>
             </div>
